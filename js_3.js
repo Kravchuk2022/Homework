@@ -11,7 +11,7 @@ function drawTriangle (lines,symbol) {
 drawTriangle (5,'*');*/
 
 
-/*let lines = 5;
+let lines = 5;
 let symbol = "*";
 
 for (let i = 1; i <= lines; i++) {
@@ -20,15 +20,15 @@ for (let i = 1; i <= lines; i++) {
     str += symbol;
   }
   console.log(str);
-}*/
+}
 
-/*let sum = 0;
+let sum = 0;
 for (let i = 1; i <= 100; i++) {
   if (i % 3 !== 0) {
     sum += i;
   }
 }
-console.log(sum);*/
+console.log(sum);
 
 /*let x = 2;
 let y = 3;
